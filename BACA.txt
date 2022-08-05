@@ -1,4 +1,4 @@
 Membuat notepad sederhana
 - Menambahkan deskripsi
--Mengedit notepad 
--Mencari cinta sejati
+- Mencari cinta sejati
+- Menikah

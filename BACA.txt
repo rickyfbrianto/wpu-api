@@ -1,4 +1,0 @@
-Membuat notepad sederhana
-- Menambahkan deskripsi
-- Mencari cinta sejati
-- Menikah

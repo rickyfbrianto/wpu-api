@@ -1,1 +1,2 @@
 Membuat notepad sederhana
+- Menambahkan deskripsi
